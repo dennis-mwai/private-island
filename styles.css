@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color:white;
+    padding: 0;
+    margin: 0;
+}
+.image{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    color: blue;
+}
+footer{
+    color: red;
+    text-align: center;
+}
